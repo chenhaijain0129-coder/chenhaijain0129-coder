@@ -2,9 +2,9 @@
 
 <p align="center">
   <a href="https://heyhaijian.com/"><b>个人网站 ↗</b></a> &nbsp; / &nbsp;
-  <a href="#selected-work">作品</a> &nbsp; / &nbsp;
-  <a href="#a-little-context">关于我</a> &nbsp; / &nbsp;
-  <a href="#lets-connect">交流</a>
+  <a href="#user-content-selected-work">作品</a> &nbsp; / &nbsp;
+  <a href="#user-content-a-little-context">关于我</a> &nbsp; / &nbsp;
+  <a href="#user-content-lets-connect">交流</a>
 </p>
 
 <br>
