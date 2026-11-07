@@ -5,15 +5,12 @@
   <img src="./assets/cover.svg" width="100%" alt="Chris Chen · 陈海健。Exploring AI through things I make. Still learning. Still making.">
 </picture>
 
-<br>
-
 <p align="center">
+<br>
   <a href="https://heyhaijian.com/">我的网站</a> &nbsp; · &nbsp;
   <a href="#user-content-thoughts">最近在想</a> &nbsp; · &nbsp;
   <a href="#user-content-making">动手做的东西</a>
 </p>
-
-<br>
 
 ### 想冲 AI，也想亲手做出点东西。
 
@@ -21,19 +18,28 @@
 
 我喜欢琢磨一个功能为什么这样设计、一个流程为什么走不通，也喜欢有创造力的产品表达。借助 AI，我开始把这些想法做成能打开、能操作的东西：自己的求职工作台、面试 Skills、个人网站，还有一些仍在探索的原型。
 
+<br>
+
 <h2 id="thoughts">最近在想</h2>
 
-> 最近的状态很直接：想冲 AI，想站到这波变化的前面。我还在找适合自己的位置，所以会先从碰到的问题做起，看看自己能把想法推进到哪一步。能亲手改动一个东西，再实际用一用，对我很有吸引力。
->
-> 我想做分析问题、解决问题的工作。具体到做东西时，我会在意：用户为什么看不懂这里？这一步为什么还要反复手动做？如果换个流程，会不会顺一点？我还在探索方向，也想通过实际项目弄清楚，哪些问题值得自己持续投入。
->
-> 动手之后，还有很多要学。自己的项目可以反复改，也让我不断碰到更具体的问题。比如求职工具能不能保留用户已经填好的内容，面试答案有没有依据；售后服务里，用户改变了目标，流程能不能跟着调整。这些细节会让我回过头去重想最初的方案。
+最近的状态很直接：想冲 AI，想站到这波变化的前面。我还在找适合自己的位置，所以会先从碰到的问题做起，看看自己能把想法推进到哪一步。能亲手改动一个东西，再实际用一用，对我很有吸引力。
+
+我想做分析问题、解决问题的工作。具体到做东西时，我会在意：用户为什么看不懂这里？这一步为什么还要反复手动做？如果换个流程，会不会顺一点？我还在探索方向，也想通过实际项目弄清楚，哪些问题值得自己持续投入。
+
+动手之后，还有很多要学。自己的项目可以反复改，也让我不断碰到更具体的问题。比如求职工具能不能保留用户已经填好的内容，面试答案有没有依据；售后服务里，用户改变了目标，流程能不能跟着调整。这些细节会让我回过头去重想最初的方案。
 
 <br>
 
 <h2 id="making">动手做的东西</h2>
 
-<img align="right" src="./assets/buddy-mark.svg" width="72" height="72" alt="">
+<div>
+<a href="https://github.com/chenhaijain0129-coder/job-search-buddy"><picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/buddy-panel-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/buddy-panel-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/buddy-panel-dark.svg">
+  <img src="./assets/buddy-panel.svg" width="100%" alt="求职 Buddy：岗位、经历、面试与复盘">
+</picture></a>
+</div>
 
 ### [求职 Buddy](https://github.com/chenhaijain0129-coder/job-search-buddy)
 
@@ -43,9 +49,16 @@
 
 [查看项目](https://github.com/chenhaijain0129-coder/job-search-buddy) &nbsp; · &nbsp; Chrome 扩展 / 持续迭代
 
-<br clear="all">
+<br>
 
-<img align="right" src="./assets/skills-mark.svg" width="72" height="72" alt="">
+<div>
+<a href="https://github.com/chenhaijain0129-coder/interview-prep-skill"><picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/skills-panel-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/skills-panel-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/skills-panel-dark.svg">
+  <img src="./assets/skills-panel.svg" width="100%" alt="面试准备与群面讨论 Agent Skills">
+</picture></a>
+</div>
 
 ### 面试里的方法，也可以做成工具
 
@@ -53,9 +66,7 @@
 
 [Interview Prep](https://github.com/chenhaijain0129-coder/interview-prep-skill) &nbsp; · &nbsp; [Group Interview](https://github.com/chenhaijain0129-coder/group-interview-skill)
 
-<br clear="all">
-
-<img align="right" src="./assets/explore-mark.svg" width="72" height="72" alt="">
+<br>
 
 ### 还有一些探索
 
