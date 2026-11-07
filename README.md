@@ -1,17 +1,12 @@
-<picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/cover-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="./assets/cover-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/cover-dark.svg">
-  <img src="./assets/cover.svg" width="100%" alt="Chris Chen · 陈海健。Exploring AI through things I make. Still learning. Still making.">
-</picture>
-
-<br>
+<a href="https://heyhaijian.com/"><img src="./assets/cover.svg" width="100%" alt="Chris Chen · 陈海健 — Curious about people. Driven to build. Marketing & Growth × AI Product Building." /></a>
 
 <p align="center">
-  <a href="https://heyhaijian.com/">我的网站</a> &nbsp; · &nbsp;
-  <a href="#user-content-thoughts">最近在想</a> &nbsp; · &nbsp;
-  <a href="#user-content-making">动手做的东西</a>
+  <a href="https://heyhaijian.com/"><b>个人网站 ↗</b></a> &nbsp; / &nbsp;
+  <a href="#user-content-making">作品</a> &nbsp; / &nbsp;
+  <a href="#user-content-thoughts">最近在想</a> &nbsp; / &nbsp;
+  <a href="#user-content-connect">交流</a>
 </p>
+
 
 <br>
 
@@ -33,7 +28,7 @@
 
 <h2 id="making">动手做的东西</h2>
 
-<img align="right" src="./assets/buddy-mark.svg" width="72" height="72" alt="">
+<a href="https://github.com/chenhaijain0129-coder/job-search-buddy"><img src="./assets/buddy.svg" width="100%" alt="求职 Buddy — 本地优先的 Chrome 求职工作台。图示为岗位发现、准备与复盘的概念示意。" /></a>
 
 ### [求职 Buddy](https://github.com/chenhaijain0129-coder/job-search-buddy)
 
@@ -43,9 +38,14 @@
 
 [查看项目](https://github.com/chenhaijain0129-coder/job-search-buddy) &nbsp; · &nbsp; Chrome 扩展 / 持续迭代
 
-<br clear="all">
+<br>
 
-<img align="right" src="./assets/skills-mark.svg" width="72" height="72" alt="">
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/chenhaijain0129-coder/interview-prep-skill"><img src="./assets/interview.svg" width="100%" alt="Interview Prep — 从真实经历出发的面试准备 Skill" /></a></td>
+<td width="50%"><a href="https://github.com/chenhaijain0129-coder/group-interview-skill"><img src="./assets/group.svg" width="100%" alt="Group Interview — 从分散观点到清晰结论的群面 Skill" /></a></td>
+</tr>
+</table>
 
 ### 面试里的方法，也可以做成工具
 
@@ -53,9 +53,7 @@
 
 [Interview Prep](https://github.com/chenhaijain0129-coder/interview-prep-skill) &nbsp; · &nbsp; [Group Interview](https://github.com/chenhaijain0129-coder/group-interview-skill)
 
-<br clear="all">
-
-<img align="right" src="./assets/explore-mark.svg" width="72" height="72" alt="">
+<br>
 
 ### 还有一些探索
 
@@ -65,7 +63,7 @@
 
 <br>
 
-### 关于接下来
+<h3 id="connect">关于接下来</h3>
 
 我想继续往 AI 应用和产品体验里走，也想把海外营销里积累的产品理解与表达带进去。接下来，希望能更多接触真实使用中的问题，把一个具体的改善推进到落地。
 
